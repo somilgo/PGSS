@@ -1,0 +1,3 @@
+[submodule "numberguesserrails"]
+	path = numberguesserrails
+	url = https://github.com/somilgo/numberguesserrails.git
