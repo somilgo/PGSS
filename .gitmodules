@@ -1,3 +1,7 @@
-[submodule "numberguesserrails"]
-	path = numberguesserrails
-	url = https://github.com/somilgo/numberguesserrails.git
+[submodule "engine"]
+	path = engine
+	url = https://github.com/JConwayAWT/pgss15cb.git
+
+[submodule "somilsite"]
+	path = somilsite
+	url = https://github.com/somilgo/numberguesserrails
